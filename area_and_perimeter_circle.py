@@ -12,8 +12,8 @@ def main():
     # this function calculates the area and perimeter
 
     print("If a circle has a radius of 15mm: \n")
-    print("The area will be {}mm²".format(math.pi * (15 ** 2)))
-    print("The perimeter will be {}mm \n".format(2 * math.pi * 15))
+    print("The area will be {} mm²".format(math.pi * (15 ** 2)))
+    print("The perimeter will be {} mm \n".format(2 * math.pi * 15))
     print("Done")
 
 
